@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+     <color name="result_view">#b0000000</color>
+     <color name="white">#FFFFFF</color>
+      <color name="viewfinder_mask">#60000000</color>
+      <color name="possible_result_points">#c0ffff00</color> 
+       <!-- 灰色 -->
+    <color name="deep_grey">#ff333333</color>
+    <color name="lucency_black">#00000000</color>
+    <color name="reg_book_tip_text">#ff999999</color>
+    <color name="backColor">#2000</color>
+    <!-- 红色 -->
+    <color name="red">#f00</color>
+    <color name="mine">#413836</color>
+    <!-- 登录按钮 -->
+     <color name="main_blue">#76B4FC</color>
+    <color name="main_blue_selected">#ff34ced9 </color>
+    <!-- toast -->
+     <color name="gray_text_color_normal">#999999</color>
+</resources>
